@@ -3,6 +3,8 @@
 Arduino code for a very simple 12-knob MIDI controller. 
 Sends control change signals, no note or clock data.
 
+Developed for an Arduino Micro with 12 analog pins.
+
 Uses Arduino MIDIUSB 1.0.3. More information: 
 https://www.arduino.cc/en/Reference/MIDIUSB
 
