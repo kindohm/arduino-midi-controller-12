@@ -10,4 +10,3 @@ Inspired by:
 
 - http://little-scale.blogspot.com/2012/10/a-very-simple-diy-usb-midi-controller.html
 - https://github.com/evankale/ArduinoMidiFader
-- 
